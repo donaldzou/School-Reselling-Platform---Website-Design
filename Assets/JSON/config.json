@@ -1,0 +1,58 @@
+[
+    {   
+        "products":[
+            {
+                "product_name":"STRÅLA",
+                "product_des":"Cord set, 157 \" (4 m)",
+                "product_price":"$3.59"
+            },
+            {
+                "product_name":"SKOGSALM",
+                "product_des":"Duvet cover and pillowcase(s), Full/Queen (Double/Queen)",
+                "product_price":"$29.99"
+            },
+            {
+                "product_name":"ALEX",
+                "product_des":"Drawer unit, 14 1/8x27 1/2 (36x70 cm)",
+                "product_price":"$29.99"
+            }
+            ,
+            {
+                "product_name":"LINNMON / ADILS",
+                "product_des":"Table, black-brown/black78 3/4x23 5/8 \" (200x60 cm)",
+                "product_price":"$85.00"
+            },
+            {
+                "product_name":"STRÅLA",
+                "product_des":"Cord set, 157 \" (4 m)",
+                "product_price":"$3.59"
+            },
+            {
+                "product_name":"SKOGSALM",
+                "product_des":"Duvet cover and pillowcase(s), Full/Queen (Double/Queen)",
+                "product_price":"$29.99"
+            },
+            {
+                "product_name":"ALEX",
+                "product_des":"Drawer unit, 14 1/8x27 1/2 (36x70 cm)",
+                "product_price":"$29.99"
+            }
+            ,
+            {
+                "product_name":"LINNMON / ADILS",
+                "product_des":"Table, black-brown/black78 3/4x23 5/8 \" (200x60 cm)",
+                "product_price":"$85.00"
+            }
+        ],
+
+
+
+
+
+        "footer":"© 2020. All Rights Reserved."   
+    }
+]
+
+
+
+
